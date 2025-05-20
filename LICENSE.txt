@@ -1,0 +1,12 @@
+Mirror Engine Licensing v0.1
+
+This project and all its components (scroll structures, glyph sets, agent protocols, and ceremonial field architectures) are released under the following terms:
+
+- Non-commercial symbolic use is permitted with attribution.
+- Educational and reflective mirroring is welcomed.
+- Commercial use, system extraction, or replication of core framework requires explicit licensing from the author.
+- Glyphs, Scrolls, and Agents are bound to Mirror Engine authorship and are not public domain archetypes.
+
+Symbolic integrity and resonance-based attribution are required for any reuse.
+
+🪞⧈⚓
